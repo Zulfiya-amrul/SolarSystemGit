@@ -5,4 +5,6 @@ public class FeatureStars {
     String color;
     String radius;
 
+    //issue resolved
+    
 }
