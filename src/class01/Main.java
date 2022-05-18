@@ -7,5 +7,13 @@ public class Main {
         FactorX.moon = "4";
         FactorX.planets = "2";
         FactorX.stars = "10000";
+
+        //        adding the features for star in the solar system
+        FeatureStars FacX = new FeatureStars();
+        FacX.color="green";
+        FacX.radius="738y4932749km";
+        FacX.size="9999999999m";
+
+
     }
 }
